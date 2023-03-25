@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Test server-sent events Node Version",
   "main": "index.js",
-  "repository": "github.com/akasuv/test-sse-node",
+  "repository": "https://github.com/akasuv/test-sse-node",
   "author": "Wei Su",
   "license": "MIT",
   "dependencies": {
