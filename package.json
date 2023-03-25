@@ -1,0 +1,13 @@
+{
+  "name": "test-sse-node",
+  "version": "1.0.0",
+  "description": "Test server-sent events Node Version",
+  "main": "index.js",
+  "repository": "github.com/akasuv/test-sse-node",
+  "author": "Wei Su",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
